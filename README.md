@@ -14,7 +14,7 @@
   <!--GMAIL-->
   <a href='https://criarmeulink.com.br/u/1715697040' alt='Gmail' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
   <!--LINKEDIN-->
-  <a href='https://linkedin.com/kaik-lima' alt='Linkedin' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+  <a href='https://linkedin.com/in/kaik-lima' alt='Linkedin' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
   <!--PINTEREST-->
   <a href='https://br.pinterest.com/kawhite2k/' alt='Pinterest' target='_blank'><img src='https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white'></a>
   <!--INSTAGRAM-->
