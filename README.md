@@ -6,7 +6,7 @@
 
 <div>
   <a href='https://github.com/Kaik-Lima'></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaik-Lima&show_icons=true&theme=gotham&hide=contribs,prs"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaik-Lima&show_icons=true&theme=gotham&hide=contribs,prs"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaik-Lima&layout=compact&theme=blue-green">
 </div>
 <h3>Venha entrar em contato comigo!</h3>
