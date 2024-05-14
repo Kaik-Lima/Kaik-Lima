@@ -4,7 +4,7 @@
 - 📊 Executo projetos para análise de dados na linguagem Python
 - 🐧 <em>Front-End por diversão</em>
 
-<div>
+<div align='center'>
   <a href='https://github.com/Kaik-Lima'></a>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaik-Lima&show_icons=true&theme=gotham&hide=contribs,prs"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaik-Lima&layout=compact&theme=blue-green">
